@@ -1,2 +1,2 @@
 # ChimpY
-Chimpanzee Y Chromosome diveristy project
+Chimpanzee Y chromosome diversity project
